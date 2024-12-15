@@ -1,8 +1,8 @@
-# FDS Final Project - Predictive Modeling and Risk Analysis in Parkinson's Disease Insights from Synthetic Patient Data
+# Predictive Modeling and Risk Analysis in Parkinson's Disease 
 
 ![(https://en.wikipedia.org/wiki/Parkinson%27s_disease)](https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/human%20brain.jpg) 
 
-This repository contains our analyses performed on a synthetic dataset of patients with or without Parkinson's disease, you can find the dataset that we used [here](https://www.kaggle.com/datasets/rabieelkharoua/parkinsons-disease-dataset-analysis/data).
+This repository contains the final project of the Fundamentals of Data Science course. Here you can find our analyses performed on a synthetic dataset of patients with and without Parkinson's disease, you can find the dataset we used [here](https://www.kaggle.com/datasets/rabieelkharoua/parkinsons-disease-dataset-analysis/data).
 
 ---
 ### **Objective of the Analysis**
