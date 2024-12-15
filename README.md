@@ -37,37 +37,34 @@ In this analysis, we employed various supervised machine learning models and two
 1. **Accuracy**  
    Accuracy measures the overall correctness of the model. It is the ratio of correctly predicted observations to the total observations.
 
-   \[
-   \text{Accuracy} = \frac{\text{True Positives} + \text{True Negatives}}{\text{Total Population}}
-   \]
+  
+   $\text{Accuracy}$ = $\frac{\text{True Positives} + \text{True Negatives}}{\text{Total Population}}$
+   
 
 2. **Recall (Sensitivity)**  
    Recall, also known as sensitivity or true positive rate, indicates how well the model identifies positive instances (Parkinson’s Disease). It is the ratio of correctly predicted positive observations to all actual positives.
 
-   \[
-   \text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
-   \]
+  
+   $\text{Recall}$ = $\frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}$
 
 3. **Precision (Positive Predictive Value)**  
    Precision measures the accuracy of positive predictions. It is the ratio of correctly predicted positive observations to all predicted positives.
 
-   \[
-   \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
-   \]
+  
+   $\text{Precision}$ = $\frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}$
+   
 
 4. **F1 Score**  
    The F1 Score is the harmonic mean of Precision and Recall, providing a balance between them. It is particularly useful when there is an imbalance between classes.
 
-   \[
-   F1 \text{ Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-   \]
+   $F1 \text{ Score}$ = $ 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
+  
 
 5. **ROC AUC (Receiver Operating Characteristic - Area Under Curve)**  
    The ROC AUC score measures the ability of the model to distinguish between classes. A higher AUC value indicates a better model. The ROC curve plots the True Positive Rate (Recall) against the False Positive Rate.
 
-   \[
-   \text{AUC-ROC} = \int_0^1 \text{True Positive Rate} \, d(\text{False Positive Rate})
-   \]
+  
+   $\text{AUC-ROC}$ = $\int_0^1 \text{True Positive Rate} \, d(\text{False Positive Rate})$
 
 By evaluating these metrics, we were able to assess the strengths and weaknesses of each model and select the best-performing ones for Parkinson’s Disease diagnosis prediction.
 
