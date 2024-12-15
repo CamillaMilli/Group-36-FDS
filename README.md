@@ -60,9 +60,9 @@ In this analysis, we employed various supervised machine learning models and two
    F1 $\text{ Score}$ =   2 $\times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
   
 
-5. **ROC AUC (Receiver Operating Characteristic - Area Under Curve)**  
-   The ROC AUC score measures the ability of the model to distinguish between classes. A higher AUC value indicates a better model. The ROC curve plots the True Positive Rate (Recall) against the False Positive Rate.
-
+5. **ROC AUC (Receiver Operating Characteristic - Area Under Curve)**
+   
+   The ROC AUC score measures the ability of the model to distinguish between classes. A higher AUC value indicates a better model. The ROC curve plots the True Positive Rate against the False Positive Rate.
   
    $\text{AUC-ROC}$ = $\int_0^1 \text{True Positive Rate} \, d(\text{False Positive Rate})$
 
