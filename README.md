@@ -57,7 +57,7 @@ In this analysis, we employed various supervised machine learning models and two
 4. **F1 Score**  
    The F1 Score is the harmonic mean of Precision and Recall, providing a balance between them. It is particularly useful when there is an imbalance between classes.
 
-   F1 $\text{ Score}$ =  $ 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
+   F1 $\text{ Score}$ =   2 $\times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
   
 
 5. **ROC AUC (Receiver Operating Characteristic - Area Under Curve)**  
