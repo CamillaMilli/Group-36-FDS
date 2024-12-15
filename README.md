@@ -35,7 +35,7 @@ In this analysis, we employed various supervised machine learning models and two
 #### **Performance Metrics**
 
 1. **Accuracy**  
-   Accuracy measures the overall correctness of the model. It is the ratio of correctly predicted observations to the total observations.
+   This metric measures the overall correctness of the model. It is the ratio of correctly predicted observations to the total observations.
 
   
    $\text{Accuracy}$ = $\frac{\text{True Positives} + \text{True Negatives}}{\text{Total Population}}$
@@ -48,7 +48,7 @@ In this analysis, we employed various supervised machine learning models and two
    $\text{Recall}$ = $\frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}$
 
 3. **Precision (Positive Predictive Value)**  
-   Precision measures the accuracy of positive predictions. It is the ratio of correctly predicted positive observations to all predicted positives.
+   This metric measures the accuracy of positive predictions. It is the ratio of correctly predicted positive observations to all predicted positives.
 
   
    $\text{Precision}$ = $\frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}$
@@ -57,7 +57,7 @@ In this analysis, we employed various supervised machine learning models and two
 4. **F1 Score**  
    The F1 Score is the harmonic mean of Precision and Recall, providing a balance between them. It is particularly useful when there is an imbalance between classes.
 
-   F1 $\text{ Score}$ =  2 $\times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
+   F1 $\text{ Score}$ =  $ 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
   
 
 5. **ROC AUC (Receiver Operating Characteristic - Area Under Curve)**  
