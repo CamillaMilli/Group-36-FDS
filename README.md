@@ -34,33 +34,34 @@ In this analysis, we employed various supervised machine learning models and two
 
 #### **Performance Metrics**
 
-1. **Accuracy**  
+1. **Accuracy**
+   
    This metric measures the overall correctness of the model. It is the ratio of correctly predicted observations to the total observations.
-
   
    $\text{Accuracy}$ = $\frac{\text{True Positives} + \text{True Negatives}}{\text{Total Population}}$
    
 
-2. **Recall (Sensitivity)**  
+3. **Recall (Sensitivity)**
+   
    Recall, also known as sensitivity or true positive rate, indicates how well the model identifies positive instances (Parkinson’s Disease). It is the ratio of correctly predicted positive observations to all actual positives.
-
-  
+   
    $\text{Recall}$ = $\frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}$
 
-3. **Precision (Positive Predictive Value)**  
+4. **Precision (Positive Predictive Value)**
+   
    This metric measures the accuracy of positive predictions. It is the ratio of correctly predicted positive observations to all predicted positives.
 
-  
    $\text{Precision}$ = $\frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}$
    
 
-4. **F1 Score**  
+5. **F1 Score**
+   
    The F1 Score is the harmonic mean of Precision and Recall, providing a balance between them. It is particularly useful when there is an imbalance between classes.
 
    F1 $\text{ Score}$ =   2 $\times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}$
   
 
-5. **ROC AUC (Receiver Operating Characteristic - Area Under Curve)**
+6. **ROC AUC (Receiver Operating Characteristic - Area Under Curve)**
    
    The ROC AUC score measures the ability of the model to distinguish between classes. A higher AUC value indicates a better model. The ROC curve plots the True Positive Rate against the False Positive Rate.
   
