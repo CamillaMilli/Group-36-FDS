@@ -24,7 +24,7 @@ This folder contains a notebook file with the progress and comments of the perfo
   
   - [**BinaryClassifierNet.py**](https://github.com/CamillaMilli/hw-fds-/blob/main/Parkinsons_Modeling_and_Functions/models/BinaryClassifierNet.py): A 3-layer neural network with batch normalization, which uses a sigmoid activation function in the output layer to produce a probability vector for each class;
 
-  - [**ImproveClassifierNe.py**](https://github.com/CamillaMilli/hw-fds-/blob/main/Parkinsons_Modeling_and_Functions/models/ImproveClassifierNet.py): A deeper version of the BinaryClassifierNet with 5 layers and featuring two Dropout layers to deactivate some neurons during the training phase to prevent overfitting of the network.
+  - [**ImproveClassifierNet.py**](https://github.com/CamillaMilli/hw-fds-/blob/main/Parkinsons_Modeling_and_Functions/models/ImproveClassifierNet.py): A deeper version of the BinaryClassifierNet with 5 layers and featuring two Dropout layers to deactivate some neurons during the training phase to prevent overfitting of the network.
 
 --- 
 
