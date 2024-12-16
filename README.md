@@ -18,7 +18,7 @@ This folder contains a notebook file with the progress and comments of the perfo
 
 ### Files:
 
-- [**main.ipynb**](https://github.com/CamillaMilli/hw-fds-/blob/main/Parkinsons_Modeling_and_Functions/models/main.ipynb): A Jupyter Notebook containing all the analyses and comparisons of the different models used;
+- [**main.ipynb**](https://github.com/CamillaMilli/hw-fds-/blob/main/Parkinsons_Modeling_and_Functions/main.ipynb): A Jupyter Notebook containing all the analyses and comparisons of the different models used;
 
 - [**Models**](https://github.com/CamillaMilli/hw-fds-/tree/main/Parkinsons_Modeling_and_Functions/models): This folder contain the codes of two Neural Network. In details:
   
