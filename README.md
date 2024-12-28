@@ -69,4 +69,10 @@ In this analysis, we employed various supervised machine learning models and two
 
 By evaluating these metrics, we were able to assess the strengths and weaknesses of each model and select the best-performing ones for Parkinson’s Disease diagnosis prediction.
 
+### Roles
+- **Camilla Labbate**: Dataset preprocessing and feature selection, Logistic Regression;
+- **Flavio Mangione**: Implementation and optimization of Neural Networks;
+- **Fabrizio Ferrara**: Implementation and evaluation of Decision Tree models and Random Forest;
+- **Giorgio Taramanni**: Counterfactual analysis and Gradient Boosting (XGBoost);
+- **Madina Rakhimbayeva**: Implementation and evaluation of Support Vector Machine (SVM).
 
