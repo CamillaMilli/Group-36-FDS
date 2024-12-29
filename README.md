@@ -78,6 +78,7 @@ By evaluating these metrics, we were able to assess the strengths and weaknesses
 | Fabrizio Ferrara   | 2207087 |  ferrara.2207087@studenti.uniroma1.it   |
 | Giorgio Taramanni   | 1961217 | taramanni.1961217@studenti.uniroma1.it  |
 | Camilla Labbate      | 2019505 | labbate.2019505@studenti.uniroma1.it   |
+| Madina Rakhimbayeva  | 2189800 |rakhimbayeva.2189800@studenti.uniroma1.it    |
 
 ---
 
