@@ -68,6 +68,16 @@ In this analysis, we employed various supervised machine learning models and two
    $\text{AUC-ROC}$ = $\int_0^1 \text{True Positive Rate} \, d(\text{False Positive Rate})$
 
 By evaluating these metrics, we were able to assess the strengths and weaknesses of each model and select the best-performing ones for Parkinson’s Disease diagnosis prediction.
+  
+---
+### Team Members Information - Sapienza University
+
+|      STUDENT       |   ID    |                 E-mail                  |
+|:------------------:|:-------:|:---------------------------------------:|
+| Flavio Mangione    | 2201201 | mangione.2201201@studenti.uniroma1.it |
+| Fabrizio Ferrara   | 2207087 |  ferrara.2207087@studenti.uniroma1.it   |
+| Giorgio Taramanni   | 1961217 | taramanni.1961217@studenti.uniroma1.it  |
+| Camilla Labbate      | 2019505 | labbate.2019505@studenti.uniroma1.it   |
 
 ---
 
@@ -77,12 +87,3 @@ By evaluating these metrics, we were able to assess the strengths and weaknesses
 - **Fabrizio Ferrara**: Implementation and evaluation of Decision Tree models and Random Forest;
 - **Giorgio Taramanni**: Counterfactual analysis and Gradient Boosting (XGBoost);
 - **Madina Rakhimbayeva**: Implementation and evaluation of Support Vector Machine (SVM).
-  
----
-
-|      STUDENT       |   ID    |                 E-mail                  |
-|:------------------:|:-------:|:---------------------------------------:|
-| Flavio Mangione    | 2201201 | mangione.2201201@studenti.uniroma1.it |
-| Fabrizio Ferrara   | 2207087 |  ferrara.2207087@studenti.uniroma1.it   |
-| Giorgio Taramanni   | 1961217 | taramanni.1961217@studenti.uniroma1.it  |
-| Camilla Labbate      | 2019505 | labbate.2019505@studenti.uniroma1.it   |
