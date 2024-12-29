@@ -1,12 +1,5 @@
 # Predictive Modeling and Risk Analysis in Parkinson's Disease 
 
-|      STUDENT       |   ID    |                 E-mail                  |
-|:------------------:|:-------:|:---------------------------------------:|
-| Flavio Mangione    | 2201201 | mangione.2201201@studenti.uniroma1.it |
-| Fabrizio Ferrara   | 2207087 |  ferrara.2207087@studenti.uniroma1.it   |
-| Giorgio Taramanni   | 1961217 | taramanni.1961217@studenti.uniroma1.it  |
-| Camilla Labbate      | 2019505 | labbate.2019505@studenti.uniroma1.it   |
-
 ![(https://en.wikipedia.org/wiki/Parkinson%27s_disease)](https://www.ox.ac.uk/sites/files/oxford/field/field_image_main/human%20brain.jpg) 
 
 This repository contains the final project of the Fundamentals of Data Science course. Here you can find our analyses performed on a synthetic dataset of patients with and without Parkinson's disease, you can find the dataset we used [here](https://www.kaggle.com/datasets/rabieelkharoua/parkinsons-disease-dataset-analysis/data).
@@ -84,4 +77,12 @@ By evaluating these metrics, we were able to assess the strengths and weaknesses
 - **Fabrizio Ferrara**: Implementation and evaluation of Decision Tree models and Random Forest;
 - **Giorgio Taramanni**: Counterfactual analysis and Gradient Boosting (XGBoost);
 - **Madina Rakhimbayeva**: Implementation and evaluation of Support Vector Machine (SVM).
+  
+---
 
+|      STUDENT       |   ID    |                 E-mail                  |
+|:------------------:|:-------:|:---------------------------------------:|
+| Flavio Mangione    | 2201201 | mangione.2201201@studenti.uniroma1.it |
+| Fabrizio Ferrara   | 2207087 |  ferrara.2207087@studenti.uniroma1.it   |
+| Giorgio Taramanni   | 1961217 | taramanni.1961217@studenti.uniroma1.it  |
+| Camilla Labbate      | 2019505 | labbate.2019505@studenti.uniroma1.it   |
